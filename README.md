@@ -25,6 +25,19 @@ node server.mjs
 ## Documentación
 [Link](https://docs.quarkid.org/Arquitectura/componentes)
 
+## Configuración de entorno local
+
+Clonar el repositorio
+
+- Abrir el proyecto con el editor seleccionado
+- Abrir una terminal y ejecutar:
+
+```bash
+- yarn
+- yarn build
+- yarn start
+```
+
 ## Variables de Entorno
 
 ### Generales
