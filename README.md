@@ -13,11 +13,11 @@ La aplicación cuenta con las siguientes técnologias:
 NodeJs
 TypeScript
 
-Local server install
-nvm install 14.19
-nvm use 14.19
-npm install
-node server.mjs
+- Local server install
+- nvm install 14.19
+- nvm use 14.19
+- npm install
+- node server.mjs
 
 ## Arquitectura
 [Diagrama](https://docs.quarkid.org/Arquitectura/arquitectura)
