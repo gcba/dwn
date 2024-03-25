@@ -20,7 +20,7 @@ TypeScript
 - node server.mjs
 
 ## Arquitectura
-[Diagrama](https://docs.quarkid.org/Arquitectura/arquitectura)
+[Diagrama](https://docs.quarkid.org/Arquitectura/)
 
 ## Documentación
 [Link](https://docs.quarkid.org/Arquitectura/componentes)
