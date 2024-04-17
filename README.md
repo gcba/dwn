@@ -38,6 +38,39 @@ Clonar el repositorio
 - yarn start
 ```
 
+## Pasos para instalar el componente en un servidor
+
+1. Contar con Linux vacío. 
+2. Instalar el componente y sus imágenes, se encuentran [Dockerhub](https://hub.docker.com/r/quarkid/dwn). 
+
+Para instalar un componente desde Docker Hub en tu servidor, sigue estos pasos:
+
+1. Conéctate al servidor.
+
+2. Instala Docker en el servidor:
+Si aún no tienes Docker instalado en tu servidor, sigue las instrucciones para instalar Docker en tu sistema operativo. Puedes encontrar guías detalladas en la documentación oficial de Docker.
+
+3. Descarga la imagen del componente desde Docker Hub utilizando el comando
+   
+```bash
+'docker pull'
+```
+
+Debes especificar el nombre completo de la imagen, que incluye el nombre del usuario o la organización en Docker Hub y el nombre de la imagen. Ejecuta el contenedor: 
+
+```bash
+docker pull docker pull quarkid/dwn
+```
+
+Una vez que la imagen del componente se haya descargado en tu servidor, puedes ejecutar un contenedor utilizando el comando
+
+```bash
+'docker run'.
+```
+
+6. Verifica que el contenedor esté en ejecución:
+Utiliza el comando docker ps para verificar que el contenedor esté en ejecución en tu servidor.
+
 ## Variables de Entorno
 
 ### Generales
