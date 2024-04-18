@@ -1,6 +1,6 @@
 ## [Descripción](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#descripci%C3%B3n)
 ## [Tecnologías](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#tecnolog%C3%ADas)
-## [Arquitectura](https://docs.quarkid.org/Arquitectura/) y [Documentacion](https://docs.quarkid.org/Arquitectura/componentes/)
+## [Arquitectura](https://docs.quarkid.org/Arquitectura/) y [Documentación](https://docs.quarkid.org/Arquitectura/componentes/)
 ## Configuraciones:
 ### 1. [Entorno local](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
 ### 2. [Variables de entorno](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
