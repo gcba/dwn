@@ -2,9 +2,9 @@
 ## [Tecnologías](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#tecnolog%C3%ADas)
 ## [Arquitectura](https://docs.quarkid.org/Arquitectura/) y [Documentacion](https://docs.quarkid.org/Arquitectura/componentes/)
 ## Configuraciones:
-### [Entorno local](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
-### [Variables de entorno](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
-### [Pasos para instalar el componente en un servidor](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#pasos-para-instalar-el-componente-en-un-servidor)
+### 1. [Entorno local](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
+### 2. [Variables de entorno](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
+### 3. [Pasos para instalar el componente en un servidor](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#pasos-para-instalar-el-componente-en-un-servidor)
 
 ## [Licencia](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#licencia)
 
