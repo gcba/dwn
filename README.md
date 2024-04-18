@@ -1,3 +1,19 @@
+## [Descripción](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#descripci%C3%B3n)
+## [Tecnologías](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#tecnolog%C3%ADas)
+## [Arquitectura](https://docs.quarkid.org/Arquitectura/) y [Documentacion](https://docs.quarkid.org/Arquitectura/componentes/)
+## Configuraciones:
+### [Entorno local](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
+### [Variables de entorno](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
+### [Pasos para instalar el componente en un servidor](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#pasos-para-instalar-el-componente-en-un-servidor)
+### [Licencia](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#licencia)
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Descripción
 
 DWN consiste en un nodo de red diseñado para la mensajería. Utiliza servicios de API REST como interfaz para interactuar con
@@ -10,14 +26,21 @@ la información transmitida en ambos casos.
 
 La aplicación cuenta con las siguientes técnologias:
 
-NodeJs
-TypeScript
-
+- NodeJs v14
+- NodeJs v16
+- TypeScript
 - Local server install
-- nvm install 14.19
-- nvm use 14.19
-- npm install
-- node server.mjs
+```bash
+cd source
+npm install
+export PORT_DWN="1337"
+export PORT_CLI="4002"
+export PORT_IPFS="4003"
+export RESOLVER="https://demo.extrimian.com/sidetree-proxy/resolve"
+export DDBB_MODE="RockDB"
+export DATABASE_URL_CONN="mongodb://localhost:27017"
+node server.mjs
+```
 
 ## Arquitectura
 [Diagrama](https://docs.quarkid.org/Arquitectura/)
@@ -75,7 +98,7 @@ Utiliza el comando docker ps para verificar que el contenedor esté en ejecució
 
 ### Generales
 
-N/A
+Disponibles en [Tecnología](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#tecnolog%C3%ADas)
 
 ## Logs
 
@@ -83,7 +106,7 @@ N/A
 
 ## Requerimientos de red
 
-La aplicación debe tener conectividad a internet y ser accesible por el Message manager. 
+La aplicación debe tener conectividad a internet y ser accesible por el [Message manager](https://github.com/gcba/message-manager/tree/master).
 
 ## Ruta de acceso
 
