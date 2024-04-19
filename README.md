@@ -64,7 +64,7 @@ Clonar el repositorio
 ## Pasos para instalar el componente en un servidor
 
 1. Contar con Linux vacío. 
-2. Instalar el componente y sus imágenes, se encuentran [Dockerhub](https://hub.docker.com/r/quarkid/dwn). 
+2. Instalar el componente y sus imágenes, se encuentran [Dockerhub](https://hub.docker.com/r/quarkid/dwn). Recuerde también que el DWN necesita estar conetado a una [mongodb](https://github.com/gcba/dwn/tree/master#tecnolog%C3%ADas-1).
 
 Para instalar un componente desde Docker Hub en tu servidor, sigue estos pasos:
 
