@@ -5,6 +5,7 @@
 ### 1. [Entorno local](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
 ### 2. [Variables de entorno](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#configuraci%C3%B3n-de-entorno-local)
 ### 3. [Pasos para instalar el componente en un servidor](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#pasos-para-instalar-el-componente-en-un-servidor)
+### 4. [Pasos para iniciar un nodo de Identidad Quarkid](https://github.com/gcba/Nodo-QuickStar/tree/master)
 
 ## [Licencia](https://github.com/gcba/dwn/tree/master?tab=readme-ov-file#licencia)
 
